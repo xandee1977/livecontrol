@@ -1,0 +1,11 @@
+{
+  "name": "livecontrol",
+  "subdomain": "xandee1977-livecontrol",
+  "scripts": {
+    "start": "app"
+  },
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
